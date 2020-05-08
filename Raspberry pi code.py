@@ -3,8 +3,7 @@ import re
 import time
 ##
 while 1:
-#if(1):
-    #print(" ")
+# Waiting for the request
     url = "http://quotidian-twins.000webhostapp.com/rasp.php"
     payload = {'hall': '205'}
     r=requests.post(url, data=payload)
