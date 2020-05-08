@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='com.basgeekball.awesomevalidation.AwesomeValidation void addValidation(android.app.Activity, int, java.lang.String, int)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

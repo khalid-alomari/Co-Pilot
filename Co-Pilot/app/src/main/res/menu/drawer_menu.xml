@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="Settings">
+        </item>
+
+        <item
+            android:id="@+id/nav_notifications"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="Notifications">
+        </item>
+        <item
+            android:id="@+id/nav_notifications_inst"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="Notifications">
+        </item>
+
+        <item
+            android:id="@+id/nav_Dashboard_stu"
+            android:icon="@drawable/ic_dashboard"
+            android:title="Student Dashboard">
+
+            <menu>
+                <item android:id="@+id/nav_stu_Entrance"
+                    android:icon="@drawable/ic_entrance"
+                    android:title="Entrance">
+                </item>
+                <item android:id="@+id/nav_stu_LecSchedule"
+                    android:icon="@drawable/ic_schedule"
+                    android:title="Lecture Schedule">
+                </item>
+            </menu>
+
+        </item>
+        <item
+            android:id="@+id/nav_Dashboard_inst"
+            android:icon="@drawable/ic_dashboard"
+            android:title="Instructor Dashboard" >
+
+            <menu>
+                <item android:id="@+id/nav_inst_Entrance"
+                    android:icon="@drawable/ic_entrance"
+                    android:title="Entrance">
+                </item>
+                <item android:id="@+id/nav_inst_Lecs"
+                    android:icon="@drawable/ic_schedule"
+                    android:title="Lectures">
+                </item>
+            </menu>
+
+        </item>
+    </group>
+
+
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_menu_logout"
+                android:title="Log out" />
+
+
+</menu>

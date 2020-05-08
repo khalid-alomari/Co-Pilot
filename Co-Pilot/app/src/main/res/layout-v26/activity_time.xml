@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AbsenceActivity">
+
+
+    <TextView
+        android:id="@+id/nameoflec"
+        android:layout_width="140dp"
+        android:layout_height="40dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Lecture ID"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/lstime"
+        android:layout_width="140dp"
+        android:layout_height="40dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="120dp"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Logging Start Time"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/letime"
+        android:layout_width="140dp"
+        android:layout_height="40dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="255dp"
+        android:layout_marginLeft="254dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Logging End Time"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/namelog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="55dp"
+        android:layout_marginLeft="55dp"
+        android:layout_marginTop="88dp" />
+
+    <TextView
+        android:id="@+id/startlog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/namelog"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/endlog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/namelog"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="53dp"
+        android:layout_marginRight="53dp"
+        android:layout_marginBottom="1dp" />
+
+    <EditText
+        android:id="@+id/sTimeET"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="257dp"
+        android:ems="10"
+        android:hint="Change log start time"
+        android:inputType="time" />
+
+    <EditText
+        android:id="@+id/eTimeET"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="317dp"
+        android:ems="10"
+        android:hint="Change log end time"
+        android:inputType="time" />
+
+    <Button
+        android:id="@+id/logbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="175dp"
+        android:text="Change" />
+</RelativeLayout>

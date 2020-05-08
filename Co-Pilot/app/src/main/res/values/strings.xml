@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Co Pilot</string>
+    <string name="user_id">User ID</string>
+    <string name="password">Password</string>
+    <string name="your_passowrd_here">Your Password Here!</string>
+    <string name="your_id_here">Your ID Here!</string>
+    <string name="sign_in">Sign in</string>
+    <string name="change_password">Change Password</string>
+    <string name="forgat_password">Forgot PASSWORD?</string>
+    <string name="enter_your_email">Enter Your Email </string>
+    <string name="enter_your_new_password">Enter Your New Password</string>
+    <string name="reset">Reset</string>
+    <string name="enter_new_password">Enter New Password!</string>
+    <string name="enter_your_email2">Enter Your Email</string>
+    <string name="user_name">User Name</string>
+    <string name="first_last_name"><![CDATA[First & Last Name]]></string>
+    <string name="enter_your_email3">Enter Your Email!</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email4">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password!</string>
+    <string name="password2">Password</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number!</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="dont_have_an_account_sign_up_here">Dont Have an Account Sign Up Here!</string>
+    <string name="enter_id_number">Enter ID Number</string>
+    <string name="user_id2">User ID</string>
+    <string name="site_key">6LfAtIQUAAAAAArl3V0G6d9QuGbAFUzbhYMy4LJL</string>
+    <string name="title_activity_sn">SN</string>
+    //errors
+    <string name="UsernameErr">Required 6+ Alphabets, no spaces</string>
+    <string name="User_IDErr">Required 8 Numbers, start with 20</string>
+    <string name="PasswordErr">Required 4+ characters</string>
+    <string name="EmailErr">Required "user@example.com"</string>
+    <string name="PhoneNoErr">Required 10 digits, starts with 07(7-9)</string>
+    <string name="ConfirmpwdErr">Passwords don\'t match</string>
+    <string name="title_activity_main_page">MainPageActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

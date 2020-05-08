@@ -1,0 +1,11 @@
+<?php
+require "init.php";
+if(isset($_POST["lec_ID"]))
+{
+ $query = "DELETE FROM lectures WHERE lec_ID = '".$_POST["lec_ID"]."'";
+ if(mysqli_query($connect, $query))
+ {
+  echo 'Data Deleted';
+ }
+}
+?>
