@@ -13,7 +13,7 @@ Languages: Kotlin, Python, PHP, HTML, CSS, JavaScript, Java, and XML.
 The PHP files and web application are hosted online
 You have no access to the actual database.
 
-To use the application, you can use the following accounts:
+To use the application you need to get permission from the owners first, then you can use the following accounts:
 
 #### Role Type: Instructor
 
