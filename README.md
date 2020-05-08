@@ -2,7 +2,7 @@
 by Khalid Alomari and Hamzeh muaz.
 
 ## Project Description
-Graduation Project: Co-pilot An Android Application with web service that uses NFC connection with Raspberry-pi 3 to control Accesses without using E-cards. You need <em>Raspberry-pi 3 to test the connection only.</em>
+Co-pilot is an Android Application with a web service that uses NFC connection with Raspberry-pi 3 to control Accesses without using E-cards. You need <em>Raspberry-pi 3 to test the connection only.</em>
 
 Languages: Kotlin, Python, PHP, HTML, CSS, JavaScript, JAVA, XML.
 
@@ -15,15 +15,16 @@ You have no access to the actual database.
 To use the application, you can use the following accounts:
 
 Type: Instructor
-Username: 20141234
-Password: 1234
+
+Username: 20141234, Password: 1234
 
 
 Type: student
-Username: 20170012
-Password: 1234
+
+Username: 20170012, Password: 1234
 
 
 ## PRIVACY POLICY 
+This is the prototype.
 #### 2020-ALL THE COPYRIGHT IS FOR THE OWNERS!
 #### YOU CAN NOT SELL THE APPLICATION OR TAKE THE NAME "CO-PILOT." 
