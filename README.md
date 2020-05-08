@@ -22,7 +22,7 @@ Username: 20141234
 Password: 1234
 
 
-#### Type: student
+#### Type: Student
 
 Username: 20170012
 
