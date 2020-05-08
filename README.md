@@ -15,11 +15,12 @@ You have no access to the actual database.
 To use the application, you can use the following accounts:
 
 Type: Instructor
-Login: 20141234
+Username: 20141234
 Password: 1234
 
+
 Type: student
-Login: 20170012
+Username: 20170012
 Password: 1234
 
 
