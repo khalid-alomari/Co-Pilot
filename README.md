@@ -12,19 +12,24 @@ Languages: Kotlin, Python, PHP, HTML, CSS, JavaScript, JAVA, XML.
 ## Instructions
 The PHP files and web application are hosted online
 You have no access to the actual database.
+
 To use the application, you can use the following accounts:
 
 Type: Instructor
 
-Username: 20141234, Password: 1234
+Username: 20141234
+
+Password: 1234
 
 
 Type: student
 
-Username: 20170012, Password: 1234
+Username: 20170012
+
+Password: 1234
 
 
 ## PRIVACY POLICY 
 This is the prototype.
-#### 2020-ALL THE COPYRIGHT IS FOR THE OWNERS!
+#### 2020 ALL COPYRIGHTS ARE FOR THE OWNERS!
 #### YOU CAN NOT SELL THE APPLICATION OR TAKE THE NAME "CO-PILOT." 
