@@ -5,7 +5,6 @@ by Khalid Alomari and Hamzeh muaz.
 Graduation Project: Co-pilot An Android Application with web service that uses NFC connection with Raspberry-pi 3 to control Accesses without using E-cards. You need <em>Raspberry-pi 3 to test the connection only.</em>
 Languages: Kotlin, Python, PHP, HTML, CSS, JavaScript, JAVA, XML.
 
-<img src="Co-Pilot Poster.pngNo " width = "80%" >
 
 
 ## Instructions
