@@ -1,5 +1,5 @@
 # Co-Pilot 
-by Khalid Alomari and Hamzeh muaz (OWNERS).
+by Khalid Alomari and Hamzeh muaz.
 
 The project still under development to the next version.
 
@@ -33,5 +33,5 @@ Password: 1234
 
 ## PRIVACY POLICY 
 This is the prototype.
-#### 2020 ALL COPYRIGHTS ARE FOR THE OWNERS!
-#### YOU CAN NOT SELL THE APPLICATION OR TAKE THE NAME "CO-PILOT." 
+Co-Pilot is Copyright © 2018-2020 under the following term.
+##### YOU CAN NOT SELL THE APPLICATION OR TAKE THE BRAND NAME "CO-PILOT." 
