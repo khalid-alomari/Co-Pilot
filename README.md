@@ -31,7 +31,7 @@ Username: 20170012
 Password: 1234
 
 
-## PRIVACY POLICY 
+## License
 This is the prototype.
 Co-Pilot is Copyright © 2018-2020 under the following 
 <a target="_blank" href="https://github.com/khalido394/Co-Pilot/blob/master/LICENSE">LICENSE</a>
