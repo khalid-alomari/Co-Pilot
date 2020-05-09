@@ -33,5 +33,6 @@ Password: 1234
 
 ## PRIVACY POLICY 
 This is the prototype.
-Co-Pilot is Copyright © 2018-2020 under the following term.
-##### YOU CAN NOT SELL THE APPLICATION OR TAKE THE BRAND NAME "CO-PILOT." 
+Co-Pilot is Copyright © 2018-2020 under the following 
+<a href="https://github.com/khalido394/Co-Pilot/blob/master/LICENSE">LICENSE</a>
+terms.
