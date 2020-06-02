@@ -1,4 +1,4 @@
-# Co-Pilot 
+# Co-Pilot©
 by Khalid Alomari and Hamzeh muaz.
 
 __The project still under commenting and development to the next version V 2.0.__ 
