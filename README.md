@@ -11,6 +11,7 @@ Languages & Tools: Kotlin, Python3, PHP, HTML, CSS, Google Cloud, JavaScript, Ja
 ## Poster
 <img src="Co-Pilot%20Poster.png"  width = "80%">
 
+P.S. on the last feature; we removed the IOS idea and used only Android!
 ## Instructions
 The PHP files and web applications are hosted online.
 You have no access to the actual database.
