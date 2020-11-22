@@ -1,5 +1,5 @@
 # Co-Pilot©
-by Khalid Alomari and Hamzeh muaz.
+by Khalid Alomari and Hamzeh Muaz.
 
 __The project still under commenting and development to the next version V 2.0.__ 
 
@@ -32,7 +32,7 @@ Password: 1234
 
 
 ## License
-This is the prototype.
+This is the prototype with a Patent.
 Co-Pilot is Copyright © 2018-2020 under the following 
 <a target="_blank" href="https://github.com/khalido394/Co-Pilot/blob/master/LICENSE">LICENSE</a>
 terms.
